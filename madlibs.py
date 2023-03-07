@@ -1,5 +1,3 @@
-
-
 option = int(input("Hello! Please enter the number 1, 2 or 3 to pick one of the texts: "))
 if option == 1:
     print("Great! Let's get started.\n")
