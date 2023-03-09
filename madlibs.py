@@ -1,6 +1,6 @@
 #pull request
 while True:
-    option = int(input("Hello! Please enter the number 1, 2 or 3 to pick one of the texts: \n "))
+    option = input("Hello! Please enter the number 1, 2 or 3 to pick one of the texts: \n ")
     while True:
         if option == 1:
             print("Let's get started.\n")
